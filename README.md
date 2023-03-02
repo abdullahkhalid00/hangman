@@ -1,5 +1,13 @@
 # CLI Hangman
 
+![GitHub top language](https://img.shields.io/github/languages/top/abdullahkhalid00/hangman)
+![Maintenance](https://img.shields.io/maintenance/yes/2023)
+![GitHub last commit](https://img.shields.io/github/last-commit/abdullahkhalid00/hangman)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/abdullahkhalid00/hangman)
+![GitHub forks](https://img.shields.io/github/forks/abdullahkhalid00/hangman?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/abdullahkhalid00/hangman?style=social)
+![GitHub followers](https://img.shields.io/github/followers/abdullahkhalid00?style=social)
+
 ## Description
 
 This project is written in python and consists of a simple game of hangman. The script generates a random word from the .txt file and the user has to guess that word letter by letter. 
